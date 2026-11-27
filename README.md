@@ -1,4 +1,4 @@
-# Capstone Project Proposal: [Project Name]
+# Capstone Project Proposal: PreKnow
 
 ## 1. Squad Roster & Mandatory Role Matrix
 | Member Name | GitHub Username | Assigned Squad Role | Primary Module Ownership |
