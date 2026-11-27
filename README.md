@@ -25,3 +25,4 @@
 - `index.html` — Landing Page & Value Proposition
 - `dashboard.html` — Main Interactive Workspace
 - `details.html` — Item Inspection / Form Submission View
+- 
