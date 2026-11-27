@@ -1,4 +1,4 @@
-# Capstone Project Proposal: PreKnow
+# Capstone Project Proposal: LaunchPad
 
 ## 1. Squad Roster & Mandatory Role Matrix
 | Member Name | GitHub Username | Assigned Squad Role | Primary Module Ownership |
